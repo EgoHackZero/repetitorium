@@ -8,28 +8,28 @@
    
    Robotika je technické odvetvie, ktoré sa zaoberá návrhom, stavbou, prevádzkou a používaním robotov. Táto oblasť často používa princípy kybernetiky a automatiky na vytvorenie strojov, ktoré môžu interagovať s fyzickým svetom a vykonávať rôzne úlohy.
 3. **čo robi system (zariadenie) inteligentnym (zakladne znaky).**
-   -Schopnosť učenia sa: Systém musí byť schopný učiť sa z dát, či už prostredníctvom strojového učenia alebo iných metód.
-   -Adaptabilita: Musí sa vedieť prispôsobiť zmenám v prostredí bez ľudského zásahu.
-   -Autonómia: Schopnosť vykonávať úlohy samostatne, bez potreby neustáleho dohľadu alebo riadenia človekom.
-   -Interaktivita: Sposobnosť komunikovať a interagovať s ľuďmi alebo inými systémami.
+   - Schopnosť učenia sa: Systém musí byť schopný učiť sa z dát, či už prostredníctvom strojového učenia alebo iných metód.
+   - Adaptabilita: Musí sa vedieť prispôsobiť zmenám v prostredí bez ľudského zásahu.
+   - Autonómia: Schopnosť vykonávať úlohy samostatne, bez potreby neustáleho dohľadu alebo riadenia človekom.
+   - Interaktivita: Sposobnosť komunikovať a interagovať s ľuďmi alebo inými systémami.
    
 5. **Popište klasifikaciu, regresiu, a reinforsment learning? čo su to?.**
-   -Klasifikácia je typ strojového učenia, kde model predpovedá kategóriu, do ktorej dátový bod patrí. Napríklad, rozpoznávanie, či obrázok obsahuje mačku alebo psa.
-   -Regresia sa zaoberá predikciou spojitéj hodnoty. Príkladom môže byť predpovedanie ceny domu na základe rôznych atribútov ako veľkosť alebo lokalita.
-   -Reinforcement learning (posilňované učenie) je metóda strojového učenia, kde agent sa učí správať sa v prostredí tak, aby maximalizoval sumu odmien. Príkladom je učenie sa robotov, ako prechádzať labyrintom.
+   - Klasifikácia je typ strojového učenia, kde model predpovedá kategóriu, do ktorej dátový bod patrí. Napríklad, rozpoznávanie, či obrázok obsahuje mačku alebo psa.
+   - Regresia sa zaoberá predikciou spojitéj hodnoty. Príkladom môže byť predpovedanie ceny domu na základe rôznych atribútov ako veľkosť alebo lokalita.
+   - Reinforcement learning (posilňované učenie) je metóda strojového učenia, kde agent sa učí správať sa v prostredí tak, aby maximalizoval sumu odmien. Príkladom je učenie sa robotov, ako prechádzať labyrintom.
 6. 
 
 7. **Popište rozdiel medzi pojmami: data - informacie - znalosti. Aka je štruktura znalostnych sistemov? Popište jednotlive kroky. Ako môžeme prehľadovať inferenčnu sieť.**
-   -*Dáta* sú surové, neorganizované fakty, ktoré sú zvyčajne neštrukturované.
-   -*Informácie* sú spracované dáta, ktoré majú určitý význam alebo účel.
-   -*Znalosti* sú komplexné súbory informácií, ktoré sú organizované a aplikované tak, aby boli užitočné.
+   - *Dáta* sú surové, neorganizované fakty, ktoré sú zvyčajne neštrukturované.
+   - *Informácie* sú spracované dáta, ktoré majú určitý význam alebo účel.
+   - *Znalosti* sú komplexné súbory informácií, ktoré sú organizované a aplikované tak, aby boli užitočné.
 **Štruktúra znalostných systémov**
 Znalostné systémy sa zvyčajne skladajú z nasledujúcich komponentov:
 
-   -Dátová báza: Súbor dát alebo informácií.
-   -Znalostná báza: Súbor pravidiel alebo heuristík, ktoré definujú, ako sa majú dáta používať.
-   -Inferenčný motor: Mechanizmus, ktorý aplikuje pravidlá na dáta, aby generoval závery.
-   -Používateľské rozhranie: Umožňuje ľuďom interagovať so systémom.
+   - Dátová báza: Súbor dát alebo informácií.
+   - Znalostná báza: Súbor pravidiel alebo heuristík, ktoré definujú, ako sa majú dáta používať.
+   - Inferenčný motor: Mechanizmus, ktorý aplikuje pravidlá na dáta, aby generoval závery.
+   - Používateľské rozhranie: Umožňuje ľuďom interagovať so systémom.
 
 Inferenčnú sieť môžeme prehľadávať pomocou rôznych metód grafovej analýzy, kde každý uzol predstavuje tvrdenie alebo koncept, a hrany predstavujú logické spojenia alebo odvodenia.
 
