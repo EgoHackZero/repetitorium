@@ -23,6 +23,7 @@
    - *Dáta* sú surové, neorganizované fakty, ktoré sú zvyčajne neštrukturované.
    - *Informácie* sú spracované dáta, ktoré majú určitý význam alebo účel.
    - *Znalosti* sú komplexné súbory informácií, ktoré sú organizované a aplikované tak, aby boli užitočné.
+     
 **Štruktúra znalostných systémov**
 Znalostné systémy sa zvyčajne skladajú z nasledujúcich komponentov:
 
